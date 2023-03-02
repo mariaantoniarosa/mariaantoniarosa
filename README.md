@@ -20,7 +20,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaantoniarosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  
 </div>
- 
+
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/100320094/222298377-20336345-2821-4621-8ac2-9651e1d6def0.gif)
 
   
 <!--
