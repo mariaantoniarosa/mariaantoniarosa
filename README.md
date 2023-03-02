@@ -1,5 +1,6 @@
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/100320094/222299676-7dbaa4fa-acb2-4100-b703-2ab0ddaea77d.gif)
-# Maria Antonia Rosa👋
+
+<h1 align "center"> Maria Antonia Rosa👋 </h1>
+
 ---
  - Atualmente estudando HTML, CSS e JavaScript ✈️✈️
  - Em busca de novos desafios! 
@@ -11,9 +12,9 @@
 
 </div
 
- 
+ ![ezgif com-gif-maker](https://user-images.githubusercontent.com/100320094/222299676-7dbaa4fa-acb2-4100-b703-2ab0ddaea77d.gif)
   
-  
+
 <div> 
 <a href = "https://github.com/mariaantoniarosa">
 <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mariaantoniarosa&layout=compact&langs_count=7&theme=dracula"/>
@@ -23,10 +24,12 @@
 </div>
 
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/100320094/222298377-20336345-2821-4621-8ac2-9651e1d6def0.gif)
+
+
 
   
 <!--
 **mariaantoniarosa/mariaantoniarosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
+
