@@ -4,7 +4,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>    <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height= "40"/>
  </div>
 
-
+<p align= "center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+ </p>
+  
 
 * Atualmente estudando HTML, CSS e JavaScript ✈️✈️
 
@@ -16,18 +19,13 @@
 
 </div
 
-<p align= "center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
- </p>
-  
 
-<div align = "center"> 
+<div>
+
 <a href = "https://github.com/mariaantoniarosa">
-<img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mariaantoniarosa&layout=compact&langs_count=7&theme=dracula"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaantoniarosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mariaantoniarosa&layout=compact&langs_count=7&theme=dracula"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaantoniarosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div>
  
-</div>
+
 
 
 
