@@ -21,7 +21,7 @@
  
 </div>
  
-  <img src = "https://media.tenor.com/29Ok5pc0ivAAAAAd/gatinho-gato.gif" width = "50" height = "50" />
+
   
 <!--
 **mariaantoniarosa/mariaantoniarosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
