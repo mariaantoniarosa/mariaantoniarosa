@@ -21,7 +21,6 @@
  
 </div>
  
-![image](https://user-images.githubusercontent.com/100320094/222296292-fddabd35-3a78-4e58-bc24-1b89cbf3519b.png)
 
   
 <!--
