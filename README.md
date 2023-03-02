@@ -21,7 +21,8 @@
  
 </div>
  
-![gatinho-gato](https://user-images.githubusercontent.com/100320094/222295668-9a5507fd-9fea-436f-bbb4-61064ac35b0c.gif)
+![image](https://user-images.githubusercontent.com/100320094/222296292-fddabd35-3a78-4e58-bc24-1b89cbf3519b.png)
+
   
 <!--
 **mariaantoniarosa/mariaantoniarosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
