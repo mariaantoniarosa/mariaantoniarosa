@@ -1,3 +1,4 @@
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/100320094/222299676-7dbaa4fa-acb2-4100-b703-2ab0ddaea77d.gif)
 # Maria Antonia Rosa👋
 ---
  - Atualmente estudando HTML, CSS e JavaScript ✈️✈️
